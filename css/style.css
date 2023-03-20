@@ -11,12 +11,26 @@
     background-color: rgb(46, 120, 204);
 }
 
+.font-style-small {
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+
 .container-small {
     width: 70%;
     margin: auto;
     margin-top: 30px;
     margin-bottom: 2px;
-    background-color: white;
+}
+.container-big {
+    width: 70%;
+    margin: auto;
+    margin-top: 0px;
+    padding: 20px;
+    padding-left: 40px;
+    box-sizing: border-box;
 }
 
 .add-task-section {
@@ -38,4 +52,25 @@
     border-color: rgb(226, 226, 226);
     border-radius: 5px;
     padding: 5px;
+}
+.bold-text {
+    font-weight: 700;
+}
+
+.check {
+    color: green;
+    font-size: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+}
+
+.contenitors {
+    width: 60px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 10px;
 }
