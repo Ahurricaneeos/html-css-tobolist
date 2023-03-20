@@ -3,6 +3,39 @@
     margin: auto;
 }
 
-.bg-header {
+.bg-white {
     background-color: white;
+}
+
+.bg-blue {
+    background-color: rgb(46, 120, 204);
+}
+
+.container-small {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 2px;
+    background-color: white;
+}
+
+.add-task-section {
+    font-size: 12px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.add-task {;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 5px;
+}
+
+.add-section {
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: rgb(226, 226, 226);
+    border-radius: 5px;
+    padding: 5px;
 }
