@@ -21,6 +21,12 @@
 .bg-orange {
     background-color: orange;
 }
+.bg-fuchsia {
+    background-color: fuchsia;
+}
+.bg-green {
+    background-color: green;
+}
 
 .font-style-small {
     font-size: 12px;
