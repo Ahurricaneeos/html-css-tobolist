@@ -91,7 +91,6 @@
 
 .contenitors {
     width: 60px;
-    height: 20px;
     display: inline-block;
     border-radius: 10px;
     margin-left: 10px;
@@ -109,7 +108,7 @@
 }
 
 .cross-text {
-    font-size: 8px;
+    font-size: 6px;
     color: red;
     text-align: center;
 }
